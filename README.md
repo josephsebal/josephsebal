@@ -1,37 +1,41 @@
 <div align="center">
-
-<img src="assets/joseph-banner.svg" width="960" alt="Joseph Balcázar · Backend Developer · Python y Django">
-
-**Python · Django · Django REST Framework · PostgreSQL**
-
-Desarrollo aplicaciones web y APIs que conectan datos con necesidades reales.
-
-[LinkedIn](https://www.linkedin.com/in/joseph-balcazar-loaiza-33324228b) · [Proyectos](#proyectos-destacados) · [Trayectoria en GitHub](https://github.com/jcbastianl)
-
-**Abierto a oportunidades como desarrollador backend junior y pasantías.**
-
+<img src="terminal-profile.svg" width="960" alt="Joseph Balcázar — perfil Python y Django en una terminal con avatar de partículas">
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=25&amp;duration=2800&amp;pause=1000&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=960&amp;lines=Python+%7C+Django+%7C+APIs+REST;Backend+Developer+%7C+PostgreSQL;Construir+%C2%B7+Aprender+%C2%B7+Mejorar" alt="Python | Django | APIs REST — Backend Developer">
+<br>
+<sub><b>Abierto a oportunidades backend junior y pasantías</b></sub>
 </div>
-
----
 
 ## `$ whoami`
 
-Soy **Joseph Balcázar**, estudiante de Ingeniería de Software en la **Universidad Nacional de Loja**, con enfoque en desarrollo backend con **Python y Django**.
+<img src="whoami-terminal.svg" width="960" alt="Joseph — Backend Developer. Ingeniería de Software, UNL. Python, Django y PostgreSQL.">
 
-En mis proyectos personales y académicos trabajo con APIs REST, modelos relacionales, autenticación, consultas con el ORM e integración con interfaces web. Me interesa convertir requisitos en funcionalidades claras y seguir creciendo junto a un equipo de desarrollo.
+Soy **Joseph Balcázar**, estudiante de Ingeniería de Software en la **Universidad Nacional de Loja**. Desarrollo aplicaciones web y APIs con Python y Django; busco aportar y seguir creciendo dentro de un equipo técnico.
 
-## `$ cat stack.yaml`
+<br>
+<div align="center">
 
-| Área | Tecnologías y práctica |
-| :--- | :--- |
-| **Backend principal** | Python · Django · Django REST Framework |
-| **APIs y datos** | PostgreSQL · Django ORM · Serializers · filtros · paginación |
-| **Integraciones** | Autenticación JWT · documentación OpenAPI / Swagger · carga de archivos |
-| **Herramientas** | Git · GitHub · Linux · Render |
-| **Frontend complementario** | Vue · JavaScript · React / Next.js · HTML · CSS |
-| **Exploración IoT** | MicroPython · ESP32 · bots de Telegram |
+## `$ cat tech-stack.yaml`
 
-## Proyectos destacados
+<table>
+<thead><tr><th colspan="2" align="left"><code>josephsebal:~$ cat tech-stack.yaml</code></th></tr></thead>
+<tbody>
+<tr><td width="50%" align="center"><code>├─ backend:</code><br><br><img src="https://skillicons.dev/icons?i=python,django" height="48" alt="Python · Django · Django REST Framework"><br><sub><code>Python · Django · Django REST Framework</code></sub></td><td width="50%" align="center"><code>├─ databases:</code><br><br><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="48" alt="PostgreSQL · MySQL · SQLite"><br><sub><code>PostgreSQL · MySQL · SQLite</code></sub></td></tr>
+<tr><td width="50%" align="center"><code>├─ frontend:</code><br><br><img src="https://skillicons.dev/icons?i=vue,js,react,nextjs" height="48" alt="Vue · JavaScript · React · Next.js"><br><sub><code>Vue · JavaScript · React · Next.js</code></sub></td><td width="50%" align="center"><code>├─ tools:</code><br><br><img src="https://skillicons.dev/icons?i=git,github,linux,bash" height="48" alt="Git · GitHub · Linux · Bash"><br><sub><code>Git · GitHub · Linux · Bash</code></sub></td></tr>
+<tr><td width="50%" align="center"><code>├─ api_integration:</code><br><br><img src="https://skillicons.dev/icons?i=django,python" height="48" alt="REST · JWT · OpenAPI · Serializers"><br><sub><code>REST · JWT · OpenAPI · Serializers</code></sub></td><td width="50%" align="center"><code>├─ iot_exploration:</code><br><br><img src="https://skillicons.dev/icons?i=python" height="48" alt="MicroPython · ESP32 · Telegram"><br><sub><code>MicroPython · ESP32 · Telegram</code></sub></td></tr>
+</tbody><tfoot><tr><td colspan="2" align="center"><code>status: learning &amp; building · focus: backend</code></td></tr></tfoot>
+</table>
+</div>
+
+<br>
+
+## `$ python portfolio_signals.py`
+
+<p align="center"><img src="radar-tech.svg" width="47%" alt="Número de repositorios con cada tecnología"> <img src="radar-code.svg" width="47%" alt="Número de repositorios con cada lenguaje"></p>
+<p align="center"><sub><code>signals: código presente en 23 repositorios recuperados · no son niveles de dominio</code></sub></p>
+
+## `$ ls projects/`
+
 
 ### 01 / Visor de siniestros
 **Django · Django REST Framework · PostgreSQL · pandas**
@@ -68,15 +72,14 @@ Adaptación de un alimentador automático con control desde Telegram. El reposit
 
 <sub>Estos proyectos se publicaron en mi cuenta anterior, <a href="https://github.com/jcbastianl">@jcbastianl</a>. Ahora continúo mi trabajo en <a href="https://github.com/josephsebal">@josephsebal</a>.</sub>
 
-## `$ connect`
 
-Busco una oportunidad para aportar en **desarrollo backend con Python/Django**, implementar funcionalidades, trabajar con datos e integrar APIs dentro de un equipo.
-
-**¿Conversamos?** [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/joseph-balcazar-loaiza-33324228b).
-
----
+## `$ connect --socials`
 
 <div align="center">
-<sub>Joseph Balcázar · Python &amp; Django<br>
-Perfil inspirado en <a href="https://github.com/macu-dev/macu-dev">macu-dev/macu-dev</a>. Diseño y contenido adaptados a mis proyectos.</sub>
+<a href="https://www.linkedin.com/in/joseph-balcazar-loaiza-33324228b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/josephsebal"><img src="https://img.shields.io/badge/GitHub-c7a4f5?style=for-the-badge&amp;logo=github&amp;logoColor=1a1a2e" alt="GitHub"></a>
+<br><br>
+<b>¿Buscas un desarrollador backend junior con enfoque en Python y Django?</b><br>Conversemos sobre tu equipo y sus proyectos.
+<br><br>
+<sub>Joseph Balcázar · Construir, aprender y mejorar.<br>Diseño adaptado de <a href="https://github.com/macu-dev/macu-dev">macu-dev/macu-dev</a>.</sub>
 </div>
